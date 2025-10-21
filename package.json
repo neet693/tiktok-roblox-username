@@ -12,6 +12,7 @@
   "type": "commonjs",
   "dependencies": {
     "csv-writer": "^1.6.0",
+    "dotenv": "^17.2.3",
     "tiktok-live-connector": "^2.1.0"
   }
 }
